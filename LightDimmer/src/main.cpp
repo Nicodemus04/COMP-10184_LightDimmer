@@ -1,3 +1,5 @@
+//I, Nicodemus Allam, student number 000838957, certify that this material is my original work. No other person's work has been used without due acknowledgment and I have not made my work available to anyone else.
+
 #include <Arduino.h> 
 
 void setup() { 
